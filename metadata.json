@@ -1,0 +1,8 @@
+{
+  "name": "Ethiopia Hulu Web",
+  "description": "Professional research assistance and statistical software training (SPSS, STATA, R, NVivo) with bilingual English and Amharic support and integrated Ethiopian bank payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
